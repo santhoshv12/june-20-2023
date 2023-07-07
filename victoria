@@ -1,8 +1,11 @@
 config sherin
 <<<<<<< HEAD
+<<<<<<< HEAD
 sandy stash
 sherin stash 1
 sandy stash 2
 git revert
+=======
+>>>>>>> parent of 28c84f1 (squash the stash 3)
 =======
 >>>>>>> parent of 28c84f1 (squash the stash 3)
