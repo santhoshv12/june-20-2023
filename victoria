@@ -1,1 +1,7 @@
 config sherin
+sandy stash
+<<<<<<< Updated upstream
+sherin stash 1
+=======
+sandy stash 2
+>>>>>>> Stashed changes
